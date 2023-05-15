@@ -68,4 +68,4 @@ async def ddos(ctx, ip: str, port: int, times: int, threads: int, attack_type: s
 
 # Run the bot
 bot.logins = {}
-bot.run('MTEwNzY4OTg0MzQ4MTM3ODgyNg.G9MhMA.z20Zr2wICRseudDprCxUzuZo4XSt4cur4mHOCQ') # Replace 'TOKEN' with your bot's token.
+bot.run('MTEwNzcwNTI1Mzg3NDM4OTE0Mg.G1V2si.kMTnX_2Io0Lz2xqgTnJB3Rnz4SbXByWFEBNx_A') # Replace 'TOKEN' with your bot's token.
